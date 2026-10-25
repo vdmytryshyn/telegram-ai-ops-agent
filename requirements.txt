@@ -1,0 +1,1 @@
+# stdlib only (urllib, threading, subprocess) - no third-party packages
